@@ -9,9 +9,8 @@ By using it you camn quickly build mobile-friendly interfaces for searching, cre
 <h3>Features</h3>
 <ul>
 			<li>Full AJAX interface with no JavaScript coding required</li>
-			<li>Easy to use API to configure everything</li>
-			<li>Support for foreign-key table relationships <span class="label label-danger">experimental</span></li>
-			<li>Input validation</li>
-			<li>Query Builder GUI <span class="label label-info">coming soon</span></li>
+			<li>Just need to call some method to generate a fully working CRUD application</li>
+			<li>Custome query can be used for complex CRUD/View</li>
+			<li>Custom Input validation</li>
 			<li>More to come...</li>
 </ul>
